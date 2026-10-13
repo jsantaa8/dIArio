@@ -1,7 +1,5 @@
 # dIArio — Tu diario personal con inteligencia artificial
 
-**De los datos cotidianos a los descubrimientos personales.**
-
 dIArio es un diario personal inteligente diseñado para transformar la información dispersa de la actividad digital en una visión coherente, personalizada y útil de la vida cotidiana.
 
 Mediante la conexión con calendarios, correos electrónicos, aplicaciones de mensajería, servicios de localización, actividad física y reflexiones personales, dIArio pretende reconstruir las experiencias diarias, identificar compromisos pendientes, descubrir patrones personales y generar recomendaciones que ayuden a tomar decisiones más conscientes.
@@ -56,7 +54,7 @@ El sistema normalizará la información de estas fuentes en una representación 
 
 El prototipo inicial podrá utilizar API simuladas y conjuntos de datos sintéticos, lo que permitirá demostrar el flujo completo sin depender del acceso a cuentas privadas ni de los permisos de plataformas externas.
 
-### 2.2. Diario diario automatizado
+### 2.2. Diario automatizado
 
 La aplicación combinará acontecimientos relevantes para construir una cronología del día y generar un resumen en lenguaje natural.
 
